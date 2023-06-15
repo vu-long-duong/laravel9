@@ -1,0 +1,6 @@
+.overflow-container {
+    max-height: 200px;
+    overflow: auto;
+    word-wrap: break-word;
+    text-overflow: ellipsis;
+}
